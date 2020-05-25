@@ -10,5 +10,5 @@ Tags descrive the main topic or approach of the paper.
 # Paper list
 
 ## Supervised
-* Pointer Networks. [NIPS 2015] [[Paper]](https://arxiv.org/pdf/1506.03134.pdf) [TSP]
+* Pointer Networks. [NIPS-2015] [[Paper]](https://arxiv.org/pdf/1506.03134.pdf) [TSP]
 * An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem. [arXiv-2019] [[Paper]](https://arxiv.org/pdf/1906.01227.pdf) [GCN, TSP]
