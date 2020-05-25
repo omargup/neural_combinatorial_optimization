@@ -4,4 +4,5 @@ A peper list for machine learning models solving combinatorial problems, NP-hard
 # Paper list
 
 ## Supervised
-* Pointer Networks, NIPS 2015. [Tags: TSP]
+* Pointer Networks, NIPS 2015. <TSP>
+* An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem, (arXiv, 2019) [Paper](https://arxiv.org/pdf/1906.01227.pdf) <GCN, TSP>
