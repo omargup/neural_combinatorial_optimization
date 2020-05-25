@@ -2,7 +2,7 @@
 A peper list for machine learning models solving combinatorial problems, NP-hard problems and pgraph problems.
 
 ## Tags
-Tags descrive the main topics or approaches of the paper.
+Tags describe the main topics or approaches of the paper.
 * GCN: Graph Convolutional Network
 * GP: Graph problems
 * TSP: Traveling Salesman Problem
