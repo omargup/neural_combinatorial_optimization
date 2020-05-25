@@ -14,7 +14,7 @@ Tags describe the main topics or approaches of the paper.
 # Paper list
 
 ## Supervised learning
-* Pointer Networks. [NIPS-2015] [[Paper]](https://arxiv.org/pdf/1506.03134.pdf) #[TSP](https:#! "Traveling Salesman Problem")  #[PtrNet](https:#! "Pointer Networks")
+* Pointer Networks. [NIPS-2015] [[Paper]](https://arxiv.org/pdf/1506.03134.pdf) [[PtrNet](https:#! "Pointer Networks"), [TSP](https:#! "Traveling Salesman Problem")]  
 * Residual Gated Graph ConvNets. [arXiv-2017] [[Paper]](https://arxiv.org/pdf/1711.07553.pdf) [GCN, GP]
 * An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem. [arXiv-2019] [[Paper]](https://arxiv.org/pdf/1906.01227.pdf) [[Code]](https://github.com/chaitjo/graph-convnet-tsp) [GCN, TSP]
 
