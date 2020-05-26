@@ -15,7 +15,7 @@ Tags describe the main topics or approaches of the paper.
 # Paper list
 
 ## Supervised learning
-* Pointer Networks. [NIPS-2015] [[Paper]](https://arxiv.org/pdf/1506.03134.pdf) [[Data]](https://drive.google.com/drive/folders/0B2fg8yPGn2TCMzBtS0o4Q2RJaEU) `PtrNet` `TSP+` `Autoregressive`
+* Pointer Networks. [NIPS-2015] [[Paper]](https://arxiv.org/pdf/1506.03134.pdf) [[Data]](https://drive.google.com/drive/folders/0B2fg8yPGn2TCMzBtS0o4Q2RJaEU) `PtrNet` `TSP, Convex hulls, Delaunay triangulations` `Autoregressive`
 
 
 * Discriminative Embeddings of Latent Variable Models for Structured Data [ICML-2016] [[Paper]](https://arxiv.org/pdf/1603.05629.pdf) [Structure2Vect]
