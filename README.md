@@ -25,9 +25,10 @@ Tags describe the main topics or approaches of the paper.
 * Graph Attention Networks [arXiv-2017] [[Paper]](https://arxiv.org/abs/1710.10903) [GAN, Graph]
 * Learning heuristics for the tsp by policy gradient [CPAIOR-2018] [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-93031-2_12) [GAN, RL, Autoregressive, 2OPT Local Search]
 * Attention, Learn to Solve Routing Problems! [ICLR-2019] [[Paper]](https://arxiv.org/pdf/1803.08475.pdf) [GAN, REINFORCE, TSP, Autoregressive]
+* Neural Combinatorial Optimization with Reinforcement Learning. [ICLR-2017] [[Paper]](https://arxiv.org/pdf/1611.09940.pdf) [PtrNet, RL, AC, PG]
 
 ## Unsupervised learning
-* Neural Combinatorial Optimization with Reinforcement Learning. [arXiv-2016] [[Paper]](https://arxiv.org/pdf/1611.09940.pdf) [PtrNet, RL, AC, PG]
+
 
 ## Solvers
 * Concorde TSP solver [[Site]](http://www.math.uwaterloo.ca/tsp/concorde/)
