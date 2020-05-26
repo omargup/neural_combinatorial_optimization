@@ -35,7 +35,7 @@ Tags describe the main topics or approaches of the paper.
 * Graph neural networks: A review of methods and applications [arXiv-2018] [[Paper]](https://arxiv.org/pdf/1812.08434.pdf)
 
 * An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem. [arXiv-2019] [[Paper]](https://arxiv.org/pdf/1906.01227.pdf) [[Code]](https://github.com/chaitjo/graph-convnet-tsp)
-⋅⋅⋅`Graph ConvNet` `TSP` `Non-autoregressive` `Superviced` `Concorde` `Beam search`
+`Graph ConvNet` `TSP` `Non-autoregressive` `Superviced` `Concorde` `Beam search`
 
 * Attention, Learn to Solve Routing Problems! [ICLR-2019] [[Paper]](https://arxiv.org/pdf/1803.08475.pdf) [GAN, REINFORCE, TSP, Autoregressive]
 
