@@ -25,6 +25,6 @@ Tags describe the main topics or approaches of the paper.
 * Concorde TSP solver
 
 ## Datasets
-* TSPLIB [[Paper]] (https://pubsonline.informs.org/doi/abs/10.1287/ijoc.3.4.376) [[Site]](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsplib.html)
+* TSPLIB [[Paper]](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.3.4.376) [[Site]](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsplib.html)
 
 ## Related papers
