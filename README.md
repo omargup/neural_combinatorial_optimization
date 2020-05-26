@@ -1,8 +1,7 @@
 # Neural combinatorial optimization
-A peper list for machine learning models solving combinatorial problems, NP-hard problems and pgraph problems.
+A peper list for machine learning models solving combinatorial problems, NP-hard problems and graph problems.
 
 ## Tag abbreviations
-Tags describe the main topics or approaches of the paper.
 * GAT: Graph Attention Network
 * Graph ConvNet: Graph Convolutional Network
 * TSP: Traveling Salesman Problem
@@ -54,4 +53,4 @@ Tags describe the main topics or approaches of the paper.
 * TSPLIB [[Paper]](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.3.4.376) [[Site]](http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsplib.html)
 
 ## Related papers
-* The Graph Neural Network Model [IEEE-2009] [[Paper]](https://ieeexplore.ieee.org/document/4700287) [GNN]
+* The Graph Neural Network Model [IEEE-2009] [[Paper]](https://ieeexplore.ieee.org/document/4700287) `GNN`
