@@ -14,7 +14,9 @@ Tags describe the main topics or approaches of the paper.
 # Paper list
 
 ## Supervised learning learning-based approaches
-* Pointer Networks. [NIPS-2015] [[Paper]](https://arxiv.org/pdf/1506.03134.pdf) #[PtrNet,TSP, Autoregressive]
+* Pointer Networks. [NIPS-2015] [[Paper]](https://arxiv.org/pdf/1506.03134.pdf)
+[PtrNet,TSP, Autoregressive]
+
 * Residual Gated Graph ConvNets. [arXiv-2017] [[Paper]](https://arxiv.org/pdf/1711.07553.pdf) [GCN, GP]
 * An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem. [arXiv-2019] [[Paper]](https://arxiv.org/pdf/1906.01227.pdf) [[Code]](https://github.com/chaitjo/graph-convnet-tsp) [GCN, TSP]
 * Learning Combinatorial Optimization Algorithms over Graphs. [NIPS-2017] [[Paper]](https://arxiv.org/pdf/1704.01665.pdf) [Structure2Vect, Graph Problems, TSP, RL]
