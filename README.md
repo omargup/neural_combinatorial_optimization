@@ -11,8 +11,9 @@ A peper list for machine learning models solving combinatorial problems, NP-hard
 # Paper list
 
 ## Supervised learning
+
 * Pointer Networks. [NIPS-2015] [[Paper]](https://arxiv.org/pdf/1506.03134.pdf) [[Data]](https://drive.google.com/drive/folders/0B2fg8yPGn2TCMzBtS0o4Q2RJaEU)
-    * `PtrNet` `TSP, Convex hulls, Delaunay triangulations` `Autoregressive`
+    * `PtrNet` `Autoregressive` `TSP` `Convex hulls` `Delaunay triangulations` 
 
 * Discriminative Embeddings of Latent Variable Models for Structured Data [ICML-2016] [[Paper]](https://arxiv.org/pdf/1603.05629.pdf)
     * `Structure2Vect`
@@ -45,6 +46,9 @@ A peper list for machine learning models solving combinatorial problems, NP-hard
 
 * On Learning Paradigms for the Travelling Salesman Problem [arXiv-2019] [[Paper]](https://arxiv.org/pdf/1910.07210.pdf)
     * `TSP`
+
+* Solving Traveling Salesman Problem with Image-based Classification [ICTAI-2019] [[Paper]](https://ieeexplore.ieee.org/document/8995285)
+    * `Pixel-mapped Classification Network` `CNN` `TSP`
 
 
 
