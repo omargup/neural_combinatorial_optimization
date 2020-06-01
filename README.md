@@ -21,17 +21,19 @@ A peper list for machine learning models solving combinatorial problems, NP-hard
 * Residual Gated Graph ConvNets. [arXiv-2017] [[Paper]](https://arxiv.org/pdf/1711.07553.pdf)
     * `Graph ConvNet`
 
-* Learning Combinatorial Optimization Algorithms over Graphs. [NIPS-2017] [[Paper]](https://arxiv.org/pdf/1704.01665.pdf) 
+* Learning Combinatorial Optimization Algorithms over Graphs. [[Dai et al. | NIPS | 2017]](https://arxiv.org/pdf/1704.01665.pdf) 
     * `Structure2Vect` `Graph problems, TSP` `RL`
 
 * Graph Attention Networks [arXiv-2017] [[Paper]](https://arxiv.org/abs/1710.10903)
     * `GAT` `Graph problems`
 
-* Neural Combinatorial Optimization with Reinforcement Learning. [ICLR-2017] [[Paper]](https://arxiv.org/pdf/1611.09940.pdf)
+* Neural Combinatorial Optimization with Reinforcement Learning. [[Bello et al. | ICLR | 2017]](https://arxiv.org/pdf/1611.09940.pdf)
     * `PtrNet` `RL`
 
 * Revised Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks. [arXiv-2017] [[Paper]](https://arxiv.org/pdf/1706.07450.pdf)
     * `Non-autoregressive`
+
+* Applying deep learning and reinforcement learning to traveling salesman problem [[Miki et al. | iCCECE | 2018]](https://ieeexplore.ieee.org/document/8659266)
 
 * Learning heuristics for the tsp by policy gradient [CPAIOR-2018] [[Paper]](https://link.springer.com/chapter/10.1007/978-3-319-93031-2_12)
     * `GAT` `RL` `Autoregressive` `2OPT Local search`
@@ -47,7 +49,7 @@ A peper list for machine learning models solving combinatorial problems, NP-hard
 * On Learning Paradigms for the Travelling Salesman Problem [arXiv-2019] [[Paper]](https://arxiv.org/pdf/1910.07210.pdf)
     * `TSP`
 
-* Solving Traveling Salesman Problem with Image-based Classification [ICTAI-2019] [[Paper]](https://ieeexplore.ieee.org/document/8995285)
+* Solving Traveling Salesman Problem with Image-based Classification [[Miki and Ebara | ICTAI | 2019]](https://ieeexplore.ieee.org/document/8995285)
     * `Pixel-mapped Classification Network` `CNN` `TSP`
 
 
