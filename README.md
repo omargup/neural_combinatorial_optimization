@@ -36,9 +36,6 @@ A peper list for machine learning models solving combinatorial problems, NP-hard
     
     `GAT` `Graph problems`
 
-* Neural Combinatorial Optimization with Reinforcement Learning. [[Bello et al. | ICLR | 2017]](https://arxiv.org/pdf/1611.09940.pdf)
-    
-    `PtrNet` `RL`
 
 * Revised Note on Learning Algorithms for Quadratic Assignment with Graph Neural Networks. [[arXiv | 2017]] (https://arxiv.org/pdf/1706.07450.pdf)
     
@@ -78,6 +75,11 @@ A peper list for machine learning models solving combinatorial problems, NP-hard
 
 
 ## Unsupervised learning
+
+* Neural Combinatorial Optimization with Reinforcement Learning. [[Bello et al. | ICLR | 2017]](https://arxiv.org/pdf/1611.09940.pdf)
+    
+    `PtrNet` `RL`
+    
 
 ## Related papers
 
