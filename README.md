@@ -71,6 +71,8 @@ A peper list for machine learning models solving combinatorial problems, NP-hard
 
 * Solving Traveling Salesman Problem with Image-based Classification [[Miki and Ebara | ICTAI | 2019]](https://ieeexplore.ieee.org/document/8995285)
     `Pixel-mapped Classification Network` `CNN` `TSP`
+    
+* Solving Optimization Problems Through Fully Convolutional Networks: An Application to the Traveling Salesman Problem [Ling et al. | IEEE SMCS | 2020](https://ieeexplore.ieee.org/document/8994181)
 
 
 
