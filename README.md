@@ -50,7 +50,7 @@ A peper list for machine learning models solving combinatorial problems, NP-hard
 * Graph neural networks: A review of methods and applications. [Zhou et al. | arXiv | 2018] [[Paper]](https://arxiv.org/pdf/1812.08434.pdf)<br>
     `GNN`
 
-* An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem. [Joshi et al. | arXiv | 2019] [[Paper]](https://arxiv.org/pdf/1906.01227.pdf) [[Code]](https://github.com/chaitjo/graph-convnet-tsp)<br>
+* An Efficient Graph Convolutional Network Technique for the Travelling Salesman Problem. [Joshi et al. | arXiv | 2019] [[Paper]](https://arxiv.org/pdf/1906.01227.pdf) [[Code]](https://github.com/chaitjo/graph-convnet-tsp) [[Data]](https://drive.google.com/file/d/1-5W-S5e7CKsJ9uY9uVXIyxgbcZZNYBrp/view)<br>
     `Graph ConvNet` `TSP` `Non-autoregressive` `Superviced` `Concorde` `Beam search`
 
 * Attention, Learn to Solve Routing Problems! [Kool et al. | ICLR | 2019] [[Paper]](https://arxiv.org/pdf/1803.08475.pdf)<br>
