@@ -86,8 +86,7 @@ A peper list for machine learning models solving combinatorial problems, NP-hard
 * Effective Approaches to Attention-based Neural Machine Translation. [Luong et al. | EMNLP | 2015] [[Paper]](https://arxiv.org/pdf/1508.04025.pdf)<br>
     `Seq2Seq` `Attention` `NMT`
 
-* Neural Machine Translation by Jointly Learning to Align and Translate. [Bahdanau et al. | ICLR | 2015] [[Paper]]
-(https://arxiv.org/pdf/1409.0473.pdf)<br>
+* Neural Machine Translation by Jointly Learning to Align and Translate. [Bahdanau et al. | ICLR | 2015] [[Paper]](https://arxiv.org/pdf/1409.0473.pdf)<br>
     `Seq2Seq` `Attention` `NMT`
 
 
