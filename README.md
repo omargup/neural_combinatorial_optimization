@@ -56,7 +56,7 @@ A peper list for machine learning models solving combinatorial problems, NP-hard
 * Attention, Learn to Solve Routing Problems! [Kool et al. | ICLR | 2019] [[Paper]](https://arxiv.org/pdf/1803.08475.pdf)<br>
     `GAT` `REINFORCE` `Autoregressive` `TSP`
 
-* On Learning Paradigms for the Travelling Salesman Problem. [Joshi et al. | arXiv | 2019] [[Paper]](https://arxiv.org/pdf/1910.07210.pdf)<br>
+* On Learning Paradigms for the Travelling Salesman Problem. [Joshi et al. | arXiv | 2019] [[Paper]](https://arxiv.org/pdf/1910.07210.pdf) [[Code]](https://github.com/chaitjo/learning-paradigms-for-tsp)<br>
     `TSP`
 
 * Solving Traveling Salesman Problem with Image-based Classification [Miki and Ebara | ICTAI | 2019] [[Paper]](https://ieeexplore.ieee.org/document/8995285)<br>
